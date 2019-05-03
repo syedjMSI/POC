@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="2019.0.6">
+<title>POC</title>
+<preferences>
+<language>en_US</language>
+<noInlineStyle>false</noInlineStyle>
+<defaultCss>contents/assets/css/default.css</defaultCss>
+<defaultWsf>settings/import/word/default.wsf</defaultWsf>
+<defaultFsf>settings/import/fm/default.fsf</defaultFsf></preferences>
+<statuslist>
+<status>Draft</status>
+<status>In Progress</status>
+<status>Ready for Review</status>
+<status>Sent for Review</status>
+<status>Reviewed</status>
+<status>Complete</status></statuslist>
+<ctaggroups>
+<group>Audience</group>
+<group>Platform</group>
+<group>Product</group>
+<group>Properties</group>
+<group>Others</group></ctaggroups>
+<colors>
+<color name="Black" value="rgb(0,0,0)"></color>
+<color name="Red" value="rgb(255,0,0)"></color>
+<color name="Lime" value="rgb(0,255,0)"></color>
+<color name="Blue" value="rgb(0,0,255)"></color>
+<color name="Maroon" value="rgb(128,0,0)"></color>
+<color name="Green" value="rgb(0,128,0)"></color>
+<color name="Navy" value="rgb(0,0,128)"></color>
+<color name="Gray" value="rgb(128,128,128)"></color>
+<color name="White" value="rgb(255,255,255)"></color>
+<color name="Fuchsia" value="rgb(255,0,255)"></color>
+<color name="Aqua" value="rgb(0,255,255)"></color>
+<color name="Yellow" value="rgb(255,255,0)"></color>
+<color name="Purple" value="rgb(128,0,128)"></color>
+<color name="Olive" value="rgb(128,128,0)"></color>
+<color name="Teal" value="rgb(0,128,128)"></color>
+<color name="Silver" value="rgb(192,192,192)"></color></colors>
+<links></links>
+<content root="contents/"></content>
+<toc root="toc"></toc>
+<snippets root="contents/assets/snippets"></snippets>
+<glossary root="glossary"></glossary>
+<index root="index"></index>
+<seealso root="seealso"></seealso>
+<variable root="variable"></variable>
+<condition root="condition"></condition></project>
